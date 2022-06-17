@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanChernenko3
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning C++/Python
+- 🌱 I’m currently learning C++/Java
 
 <!---
 IvanChernenko3/IvanChernenko3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
