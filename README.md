@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanChernenko3
-- 👀 I’m interested in C++/Java/Dart
-- 🌱 I’m currently learning Dart
+- 👀 I’m interested in C++/Java/JavaScript
+- 🌱 I’m currently learning JS
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanchernenko3&show_icons=true&locale=en&theme=nord" alt="ivanchernenko3" /></p>
 <!---
